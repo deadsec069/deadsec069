@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @DeadSec - MyDiscord : .73n
 - 👀 I’m interested in Malware Developer
+- [ C/++/# ]
 
 
 
